@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-React/static/css/main.c523e7d4.css",
+    "main.js": "/portfolio-React/static/js/main.f812f3fd.js",
+    "static/media/tourist.png": "/portfolio-React/static/media/tourist.6f278fd54a9f17fff293.png",
+    "static/media/tourist1.png": "/portfolio-React/static/media/tourist1.9b1ba5605207578c3164.png",
+    "static/media/hotel12.png": "/portfolio-React/static/media/hotel12.b8396b5233905ad81173.png",
+    "static/media/edtech.png": "/portfolio-React/static/media/edtech.67b27ee7706af462aeab.png",
+    "static/media/INT.webp": "/portfolio-React/static/media/INT.00c22edfe7abbe6719f5.webp",
+    "static/media/cafe1111.jpg": "/portfolio-React/static/media/cafe1111.246dad1e2d3fddddba7f.jpg",
+    "static/media/nutri1.jpg": "/portfolio-React/static/media/nutri1.b04defe3c83baefe6a61.jpg",
+    "index.html": "/portfolio-React/index.html",
+    "main.c523e7d4.css.map": "/portfolio-React/static/css/main.c523e7d4.css.map",
+    "main.f812f3fd.js.map": "/portfolio-React/static/js/main.f812f3fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c523e7d4.css",
+    "static/js/main.f812f3fd.js"
+  ]
+}
